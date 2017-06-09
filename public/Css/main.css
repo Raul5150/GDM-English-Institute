@@ -93,3 +93,7 @@ footer {
   
 }
 
+.centrado{
+	margin:10px auto;
+	display:block;
+    }
